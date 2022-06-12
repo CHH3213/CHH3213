@@ -44,11 +44,18 @@ Hello, World!
 
 [![](https://img.shields.io/badge/RL-stable--baselines3-blue)](https://stable-baselines3.readthedocs.io/en/master/guide/examples.html)
 [![](https://img.shields.io/badge/offlineRL-D4RL-blue)](https://di-engine-docs.readthedocs.io/zh_CN/latest/env_tutorial/d4rl_zh.html)
+[![](https://img.shields.io/badge/RL-%20%20ElegantRL-blue)](https://github.com/AI4Finance-Foundation/ElegantRL)
+
+
 [![](https://img.shields.io/badge/Robotics-pythonRobotics-yellow)](https://atsushisakai.github.io/PythonRobotics/modules/path_planning/bspline_path/bspline_path.html)
 [![](https://img.shields.io/badge/Robotics-cppRobotics-yellowgreen)](https://github.com/onlytailei/CppRobotics)
+[![](https://img.shields.io/badge/Robotics-%20%20ModernRobotics-orange)](https://github.com/NxRLab/ModernRobotics)
+[![](https://img.shields.io/badge/Robotics-%20PythonLinearNonlinearControl%20-orange)](https://github.com/Shunichi09/PythonLinearNonlinearControl)
+
 [![](https://img.shields.io/badge/Self--driving-PathPlanning-brightgreen)](https://github.com/zhm-real/PathPlanning)
 [![](https://img.shields.io/badge/Self--driving-MotionPlanning-brightgreen)](https://github.com/zhm-real/MotionPlanning)
 [![](https://img.shields.io/badge/apollo-Dig%20into%20Apollo-orange)](https://github.com/daohu527/Dig-into-Apollo)
+
 
 - 👋 Hi, I’m @CHH3213
 - 👀 I’m interested in Reinforcement Learning
