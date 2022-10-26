@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m @CHH3213
-- 👀 I’m interested in Reinforcement Learning
+- 👀 I’m interested in Reinforcement Learning and Self-Driving
 - 🌱 I’m currently learning  RL, Python, C++, Control Theory...
 - 📫 Reach me through chh3213@foxmail.com
 
