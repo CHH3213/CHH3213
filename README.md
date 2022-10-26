@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning  RL, Python, C++, Control Theory...
 - 📫 Reach me through chh3213@foxmail.com
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHH3213&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&show_icons=true) | <!--START_SECTION:waka--><br/><!--END_SECTION:waka--> |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHH3213&theme=radical&show_icons=true) | <!--START_SECTION:waka--><br/><!--END_SECTION:waka--> |
 | ------------------------------------------------------------ | :---------------------------------------------------- |
 
 
