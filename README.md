@@ -67,41 +67,15 @@ You can click the Preview link to take a look at your changes.
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHH3213&theme=radical&show_icons=true)  
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   38.86% 
-Markdown                 3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91% 
-YAML                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-EJS                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.46%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   10 repos            ██████████░░░░░░░░░░░░░░░   43.48% 
-TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
-
-```
-
-
-
- Last Updated on 26/10/2022 14:24:33 UTC
-<!--END_SECTION:waka--> 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHH3213&theme=2077) 
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka--> 
 
 ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
