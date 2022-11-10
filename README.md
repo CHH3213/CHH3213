@@ -60,6 +60,17 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   13 hrs 11 mins      ██████████████████████░░░   89.59% 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
+Markdown                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -73,7 +84,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 18:44:55 UTC
+ Last Updated on 10/11/2022 18:45:21 UTC
 <!--END_SECTION:waka--> 
 
 - 👋 Hi, I’m @CHH3213
