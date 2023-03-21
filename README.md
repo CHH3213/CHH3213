@@ -83,8 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-YAML                     23 mins             ████████████████░░░░░░░░░   62.36 % 
-Git Config               14 mins             █████████░░░░░░░░░░░░░░░░   37.64 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +99,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2023 18:37:33 UTC
+ Last Updated on 21/03/2023 18:35:33 UTC
 <!--END_SECTION:waka--> 
 
