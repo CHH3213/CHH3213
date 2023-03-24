@@ -83,7 +83,8 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               1 min               ███████████████████████░░   91.37 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +100,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2023 18:34:47 UTC
+ Last Updated on 24/03/2023 18:35:40 UTC
 <!--END_SECTION:waka--> 
 
