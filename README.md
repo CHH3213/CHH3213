@@ -83,8 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              ████████████████░░░░░░░░░   62.06 % 
-Docker                   0 secs              █████████░░░░░░░░░░░░░░░░   37.94 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +99,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2023 18:32:56 UTC
+ Last Updated on 03/04/2023 18:37:00 UTC
 <!--END_SECTION:waka--> 
 
