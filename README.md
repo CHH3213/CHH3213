@@ -83,7 +83,8 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Markdown                 26 mins             █████████████████████████   100.00 % 
+Markdown                 39 mins             ████████████████████████░   94.13 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +100,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2023 18:33:02 UTC
+ Last Updated on 07/04/2023 18:32:53 UTC
 <!--END_SECTION:waka--> 
 
