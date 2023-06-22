@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +99,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2023 18:32:38 UTC
+ Last Updated on 22/06/2023 18:33:02 UTC
 <!--END_SECTION:waka--> 
 
