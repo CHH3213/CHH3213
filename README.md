@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +99,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2024 18:32:31 UTC
+ Last Updated on 27/02/2024 18:33:41 UTC
 <!--END_SECTION:waka--> 
 
