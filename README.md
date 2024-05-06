@@ -83,8 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 24 mins       ███████████████████░░░░░░   76.90 % 
-C                        43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +99,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2024 18:32:38 UTC
+ Last Updated on 06/05/2024 18:34:38 UTC
 <!--END_SECTION:waka--> 
 
