@@ -83,7 +83,8 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Protocol Buffer          1 min               ████████████████████████░   96.99 % 
+C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +100,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2024 18:41:50 UTC
+ Last Updated on 10/10/2024 18:42:07 UTC
 <!--END_SECTION:waka--> 
 
