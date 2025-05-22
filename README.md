@@ -79,6 +79,17 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C++                      19 hrs 24 mins      █████████████████░░░░░░░░   66.48 % 
+C                        8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Protocol Buffer          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -92,6 +103,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 18:46:39 UTC
+ Last Updated on 22/05/2025 18:46:37 UTC
 <!--END_SECTION:waka--> 
 
