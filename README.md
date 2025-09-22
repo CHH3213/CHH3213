@@ -83,8 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Docker                   9 mins              █████████████████████░░░░   84.34 % 
-SSH Config               1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+SSH Config               1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +99,6 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 18:41:40 UTC
+ Last Updated on 22/09/2025 18:43:50 UTC
 <!--END_SECTION:waka--> 
 
