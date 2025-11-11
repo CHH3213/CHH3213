@@ -83,7 +83,9 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      2 hrs 18 mins       █████████████████████████   99.29 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +101,6 @@ TeX                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2025 18:46:22 UTC
+ Last Updated on 11/11/2025 18:47:01 UTC
 <!--END_SECTION:waka--> 
 
