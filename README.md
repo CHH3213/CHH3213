@@ -83,8 +83,8 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 13 mins       █████████████████████████   99.05 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    16 mins             █████████████████████████   98.24 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +100,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2026 19:35:02 UTC
+ Last Updated on 27/03/2026 19:14:07 UTC
 <!--END_SECTION:waka--> 
 
