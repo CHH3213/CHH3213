@@ -79,19 +79,30 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+C++                      1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+YAML                     1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+Markdown                 1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-C++                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   16 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
+C++                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 04/05/2026 19:59:27 UTC
+ Last Updated on 05/05/2026 19:55:44 UTC
 <!--END_SECTION:waka--> 
 
