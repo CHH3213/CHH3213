@@ -83,26 +83,26 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.46 % 
-Other                    2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Git Config               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Protocol Buffer          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Markdown                 6 hrs 44 mins       ██████████████░░░░░░░░░░░   55.65 % 
+Other                    2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Git Config               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Protocol Buffer          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+C                        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
-C++                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   16 repos            ██████████░░░░░░░░░░░░░░░   41.03 % 
+C++                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 20:09:04 UTC
+ Last Updated on 19/05/2026 20:10:34 UTC
 <!--END_SECTION:waka--> 
 
