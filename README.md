@@ -83,8 +83,7 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Other                    33 mins             ███████████████████░░░░░░   74.93 % 
-Python                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Python                   11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,6 +99,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 20:20:32 UTC
+ Last Updated on 02/07/2026 19:58:36 UTC
 <!--END_SECTION:waka--> 
 
