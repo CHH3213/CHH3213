@@ -79,17 +79,6 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C++                      2 hrs 12 mins       ████████████████████░░░░░   80.25 % 
-C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Protocol Buffer          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,6 +92,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:52:46 UTC
+ Last Updated on 24/07/2026 19:52:37 UTC
 <!--END_SECTION:waka--> 
 
