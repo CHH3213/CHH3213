@@ -79,15 +79,40 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2028%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      2 hrs 12 mins       ████████████████████░░░░░   80.91 % 
-C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Protocol Buffer          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+C++                      2 hrs 30 mins       █████████████████████░░░░   83.78 % 
+C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Protocol Buffer          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 13 mins (74.19%)
+
+✍️ 1,075 lines written by AI, 13 lines written by hand (98.81% AI-written)
+
+🔤 30,480,224 Input Tokens, 82,902 Output Tokens
+
+💵 $85.64 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 21 AI Prompts
+
+GLM                      936 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.81% of written lines came from AI
+📝 Concise Prompter — average 111 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -103,6 +128,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:41:24 UTC
+ Last Updated on 27/07/2026 20:01:19 UTC
 <!--END_SECTION:waka--> 
 
