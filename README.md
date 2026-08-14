@@ -79,19 +79,38 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      9 mins              █████████████████████████   100.00 % 
+Other                    10 mins             ███████████████████░░░░░░   77.65 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 mins (100.0%)
+
+✍️ 477 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 3,388,355 Input Tokens, 12,079 Output Tokens
+
+💵 $10.35 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+GLM                      477 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 317 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,6 +126,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:32:03 UTC
+ Last Updated on 14/08/2026 19:25:28 UTC
 <!--END_SECTION:waka--> 
 
