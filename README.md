@@ -85,27 +85,34 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 min               █████████████████████████   100.00 % 
+JavaScript               2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.92 % 
+Python                   1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+HTML                     1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+CSS                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (57.66%)
+⏱ AI Coding Time: 6 hrs 36 mins (95.97%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 13,388 lines written by AI, 605 lines written by hand (95.68% AI-written)
 
-🔤 36,683 Input Tokens, 239 Output Tokens
+🔤 3,580,384 Input Tokens, 364,620 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $184.83 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 6 AI Sessions, 69 AI Prompts
+
+GLM                      13,421 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 95.68% of written lines came from AI
+📚 Verbose Prompter — average 2,050 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 4.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,6 +128,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:17:02 UTC
+ Last Updated on 09/09/2026 21:02:47 UTC
 <!--END_SECTION:waka--> 
 
