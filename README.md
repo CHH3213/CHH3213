@@ -79,40 +79,40 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Markdown                 2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-HTML                     2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-C++                      1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+JavaScript               2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Markdown                 2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+C++                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+HTML                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+CSS                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 23 mins (92.67%)
+⏱ AI Coding Time: 8 hrs 47 mins (90.39%)
 
-✍️ 24,348 lines written by AI, 869 lines written by hand (96.55% AI-written)
+✍️ 10,960 lines written by AI, 265 lines written by hand (97.64% AI-written)
 
-🔤 11,259,927 Input Tokens, 834,261 Output Tokens
+🔤 7,716,226 Input Tokens, 469,880 Output Tokens
 
-💵 $619.81 Estimated AI Cost This Week
+💵 $428.35 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 167 AI Prompts
+🧠 13 AI Sessions, 102 AI Prompts
 
-GLM                      24,463 lines        █████████████████████████   100.00 % 
+GLM                      10,967 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.55% of written lines came from AI
-📚 Verbose Prompter — average 2,636 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 6.2% of changed lines were hand-edited
+🤖 AI-Driven — 97.64% of written lines came from AI
+📚 Verbose Prompter — average 2,938 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 8.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -128,6 +128,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 21:33:28 UTC
+ Last Updated on 16/09/2026 21:28:53 UTC
 <!--END_SECTION:waka--> 
 
