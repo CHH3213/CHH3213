@@ -85,34 +85,34 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   35.45 % 
-C++                      1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-JavaScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-HTML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Markdown                 1 hr 26 mins        ██████████████░░░░░░░░░░░   57.93 % 
+HTML                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+C++                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 30 mins (89.12%)
+⏱ AI Coding Time: 1 hr 44 mins (69.33%)
 
-✍️ 5,301 lines written by AI, 73 lines written by hand (98.64% AI-written)
+✍️ 4,780 lines written by AI, 74 lines written by hand (98.48% AI-written)
 
-🔤 4,641,908 Input Tokens, 266,499 Output Tokens
+🔤 2,252,762 Input Tokens, 186,605 Output Tokens
 
-💵 $250.17 Estimated AI Cost This Week
+💵 $139.42 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 83 AI Prompts
+🧠 5 AI Sessions, 46 AI Prompts
 
-GLM                      5,317 lines         █████████████████████████   100.00 % 
+GLM                      4,780 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.64% of written lines came from AI
-📚 Verbose Prompter — average 1,866 characters per prompt
+🤖 AI-Driven — 98.48% of written lines came from AI
+📚 Verbose Prompter — average 2,066 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.7% of changed lines were hand-edited
+🚀 High AI Trust — 2.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -128,6 +128,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:33:15 UTC
+ Last Updated on 18/09/2026 21:03:39 UTC
 <!--END_SECTION:waka--> 
 
