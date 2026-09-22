@@ -85,34 +85,30 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ████████████░░░░░░░░░░░░░   46.85 % 
-HTML                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-C++                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 29 mins             ███████████████░░░░░░░░░░   60.72 % 
+Other                    19 mins             ██████████░░░░░░░░░░░░░░░   39.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (83.54%)
+⏱ AI Coding Time: 34 mins (70.31%)
 
-✍️ 4,780 lines written by AI, 3 lines written by hand (99.94% AI-written)
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
-🔤 2,279,948 Input Tokens, 212,136 Output Tokens
+🔤 186,224 Input Tokens, 25,942 Output Tokens
 
-💵 $140.13 Estimated AI Cost This Week
+💵 $2.61 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 37 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-GLM                      4,780 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,528 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 987 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -128,6 +124,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 22:05:04 UTC
+ Last Updated on 22/09/2026 21:31:21 UTC
 <!--END_SECTION:waka--> 
 
