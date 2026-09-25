@@ -85,33 +85,33 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Markdown                 29 mins             ███████████░░░░░░░░░░░░░░   43.16 % 
-Other                    19 mins             ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-C++                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Other                    14 mins             ██████████░░░░░░░░░░░░░░░   41.29 % 
+HTML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+C++                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (78.34%)
+⏱ AI Coding Time: 34 mins (96.0%)
 
-✍️ 308 lines written by AI, 3 lines written by hand (99.04% AI-written)
+✍️ 308 lines written by AI, 2 lines written by hand (99.35% AI-written)
 
-🔤 422,892 Input Tokens, 44,014 Output Tokens
+🔤 263,854 Input Tokens, 43,603 Output Tokens
 
-💵 $14.15 Estimated AI Cost This Week
+💵 $12.25 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 15 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
 GLM                      308 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.04% of written lines came from AI
-📄 Detailed Prompter — average 1,055 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.35% of written lines came from AI
+📄 Detailed Prompter — average 514 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,6 +127,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:38:20 UTC
+ Last Updated on 25/09/2026 21:44:01 UTC
 <!--END_SECTION:waka--> 
 
