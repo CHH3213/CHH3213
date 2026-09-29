@@ -79,39 +79,39 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    25 mins             ██████████████░░░░░░░░░░░   55.21 % 
-HTML                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-C++                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Other                    19 mins             ████████████░░░░░░░░░░░░░   49.72 % 
+HTML                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+C++                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (96.95%)
+⏱ AI Coding Time: 38 mins (99.05%)
 
-✍️ 308 lines written by AI, 2 lines written by hand (99.35% AI-written)
+✍️ 308 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 272,030 Input Tokens, 42,486 Output Tokens
 
 💵 $12.23 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 9 AI Prompts
+🧠 4 AI Sessions, 5 AI Prompts
 
 GLM                      308 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.35% of written lines came from AI
-📝 Concise Prompter — average 497 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 4.64% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 610 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,6 +127,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:24:18 UTC
+ Last Updated on 29/09/2026 22:27:14 UTC
 <!--END_SECTION:waka--> 
 
