@@ -85,33 +85,29 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-Other                    19 mins             ████████████░░░░░░░░░░░░░   49.72 % 
-HTML                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-C++                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Other                    19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (99.05%)
+⏱ AI Coding Time: 19 mins (100.0%)
 
-✍️ 308 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 272,030 Input Tokens, 42,486 Output Tokens
+🔤 35,362 Input Tokens, 24,414 Output Tokens
 
-💵 $12.23 Estimated AI Cost This Week
+💵 $0.69 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-GLM                      308 lines           █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 610 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 732 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,6 +123,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:27:14 UTC
+ Last Updated on 30/09/2026 22:26:16 UTC
 <!--END_SECTION:waka--> 
 
