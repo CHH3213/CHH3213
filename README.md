@@ -79,39 +79,40 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              ███████████░░░░░░░░░░░░░░   42.40 % 
-Other                    9 mins              ██████████░░░░░░░░░░░░░░░   41.60 % 
-Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Markdown                 1 hr 2 mins         █████████████░░░░░░░░░░░░   52.58 % 
+Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (66.66%)
+⏱ AI Coding Time: 1 hr 50 mins (93.74%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 2,913 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 325,907 Input Tokens, 7,242 Output Tokens
+🔤 24,920,920 Input Tokens, 445,984 Output Tokens
 
-💵 $1.80 Estimated AI Cost This Week
+💵 $55.38 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 7 AI Sessions, 15 AI Prompts
 
+Sonnet                   2,913 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 5,442 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,418 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -127,6 +128,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:30:56 UTC
+ Last Updated on 20/10/2026 21:45:37 UTC
 <!--END_SECTION:waka--> 
 
