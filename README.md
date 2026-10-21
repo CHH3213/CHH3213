@@ -79,40 +79,40 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Metrics](https://metrics.lecoq.io/CHH3213?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai) -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 2 mins         █████████████░░░░░░░░░░░░   52.58 % 
-Python                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+HTML                     1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   34.59 % 
+Markdown                 1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   30.10 % 
+Python                   59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (93.74%)
+⏱ AI Coding Time: 5 hrs 16 mins (97.72%)
 
-✍️ 2,913 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,254 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 24,920,920 Input Tokens, 445,984 Output Tokens
+🔤 47,359,744 Input Tokens, 1,038,696 Output Tokens
 
-💵 $55.38 Estimated AI Cost This Week
+💵 $105.94 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 15 AI Prompts
+🧠 8 AI Sessions, 18 AI Prompts
 
-Sonnet                   2,913 lines         █████████████████████████   100.00 % 
+Sonnet                   8,254 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,418 characters per prompt
+📚 Verbose Prompter — average 5,349 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.88% of changed lines were hand-edited
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -128,6 +128,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:45:37 UTC
+ Last Updated on 21/10/2026 21:51:42 UTC
 <!--END_SECTION:waka--> 
 
