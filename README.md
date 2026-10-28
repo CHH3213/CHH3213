@@ -85,33 +85,13 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 46 mins        █████████████░░░░░░░░░░░░   51.76 % 
-Other                    36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 25 mins (100.0%)
-
-✍️ 5,341 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 22,438,824 Input Tokens, 592,712 Output Tokens
-
-💵 $50.57 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-Sonnet                   5,341 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 6 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -127,6 +107,6 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:27:13 UTC
+ Last Updated on 28/10/2026 22:43:52 UTC
 <!--END_SECTION:waka--> 
 
